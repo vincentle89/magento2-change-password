@@ -1,3 +1,8 @@
+# Description
+
+The module allows a developer updating password via a command. 
+
+Magento 2 - update password for a specified user
 # Tech Stack
 | App | Version |
 | :------------- |:-------------:|
