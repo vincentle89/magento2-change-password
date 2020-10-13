@@ -1,0 +1,37 @@
+{
+    "name": "vincentle89/magento2-change-password",
+    "description": "The module allows a developer updating password via a command.",
+    "keywords": [
+        "password",
+        "change password",
+        "change user password",
+        "magento 2 ",
+        "update password",
+        "magento 2 update password"
+    ],
+    "require": {
+        "php": "~7.1.3||~7.2.0||~7.3.0"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "authors": [
+        {
+            "name": "Vincent Le",
+            "email": "vinh.lengoc17489@gmail.com",
+            "homepage": "https://github.com/vincentle89",
+            "role": "Magento 2 Developer"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Vincentle89\\ChangePassword\\": ""
+        }
+    }
+}
