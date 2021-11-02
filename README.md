@@ -6,7 +6,7 @@ Magento 2 - update password for a specified user
 # Tech Stack
 | App | Version |
 | :------------- |:-------------:|
-| PHP | 7.2.x, 7.3.x |
+| PHP | 7.2.x, 7.3.x, 7.4.x |
 | MySQL | 5.7 |
 
 # Install Module
